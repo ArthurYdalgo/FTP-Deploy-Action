@@ -4,6 +4,9 @@
 
 Automate deploying websites and more with this GitHub action. **It's free!**
 
+
+<b>⚠️Disclaimer: this action is a fork on a [similar action](https://github.com/garygrossgarten/github-action-scp) from [garygrossgarten](https://github.com/garygrossgarten)⚠️<b>
+
 ![FTP test](https://github.com/SamKirkland/FTP-Deploy-Action/workflows/FTP%20Test/badge.svg)
 ![FTPS test](https://github.com/SamKirkland/FTP-Deploy-Action/workflows/FTPS%20Test/badge.svg)
 
